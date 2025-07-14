@@ -1,5 +1,15 @@
 # 💫 About Me:
-🎓 Master's Student in Computer Science | Focus: Cybersecurity & Pentesting<br>🌍 Exchange Semester @ Kagawa University (Japan 🇯🇵)<br>📍 Based in France & Japan<br><br>Hi there! I'm a French computer science student currently in my first year of a Master's degree, specializing in cybersecurity and pentesting. I'm particularly interested in low-level code analysis, reverse engineering, and ethical hacking.<br><br>During my exchange at Kagawa University, I'm diving deeper into Japanese language and culture while continuing to work on security-related projects.<br><br>🧪 On the side, I'm also into scripting, CTFs, and exploring the world of malware analysis.<br>🎮 Actively sharpening my skills on platforms like TryHackMe and Root-Me.<br>🏒 Oh, and I play ice hockey too.<br>
+🎓 Master’s Student in Computer Science | Focus: Cybersecurity & Pentesting<br>
+🌍 Former Exchange Student @ Kagawa University (Japan 🇯🇵)<br>
+📍 Based in France (Paris-Saclay)<br><br>
+
+Hi there! I'm a French computer science student currently in the second year of my Master's degree at Paris-Saclay University, specializing in cybersecurity and pentesting. I'm particularly interested in low-level code analysis, reverse engineering, and ethical hacking.<br><br>
+
+I recently completed an exchange semester at Kagawa University in Japan, where I explored Japanese language and culture while working on security-related projects.<br><br>
+
+🧪 On the side, I'm also into scripting, CTFs, and malware analysis.<br>
+🎮 Actively sharpening my skills on platforms like TryHackMe and Root-Me.<br>
+🏒 Oh, and I play ice hockey too.<br>
 
 <p align="left">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTg2YmR3dmJ3cXc3c2Y5Zmt6NDcwM3FnZzBzZG4waHhrdDgxcGxvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYlSDn290VbV076/giphy.gif" alt="Cyber GIF" width="50%" />
