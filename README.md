@@ -1,9 +1,9 @@
 # 💫 About Me:
-🎓 Master’s Student in Computer Science | Focus: Cybersecurity & Pentesting<br>
+🎓 Master’s Student in Computer Science | Focus: Cybersecurity<br>
 🌍 Former Exchange Student @ Kagawa University (Japan 🇯🇵)<br>
 📍 Based in France (Paris-Saclay)<br><br>
 
-Hi there! I'm a French computer science student currently in the second year of my Master's degree at Paris-Saclay University, specializing in cybersecurity and pentesting. I'm particularly interested in low-level code analysis, reverse engineering, and ethical hacking.<br><br>
+Hi there! I'm a French computer science student currently in the second year of my Master's degree at Paris-Saclay University, specializing in cybersecurity. <br><br>
 
 I recently completed an exchange semester at Kagawa University in Japan, where I explored Japanese language and culture while working on security-related projects.<br><br>
 
