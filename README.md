@@ -1,7 +1,7 @@
 # 💫 About Me:
 🎓 Master’s Student in Computer Science | Focus: Cybersecurity<br>
 🌍 Former Exchange Student @ Kagawa University (Japan 🇯🇵)<br>
-📍 Based in France (Paris-Saclay)<br><br>
+📍 Based in France <br><br>
 
 Hi there! I'm a French computer science student currently in the second year of my Master's degree at Paris-Saclay University, specializing in cybersecurity. <br><br>
 
