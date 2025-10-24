@@ -15,8 +15,6 @@ I recently completed an exchange semester at Kagawa University in Japan, where I
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTg2YmR3dmJ3cXc3c2Y5Zmt6NDcwM3FnZzBzZG4waHhrdDgxcGxvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYlSDn290VbV076/giphy.gif" alt="Cyber GIF" width="50%" />
 </p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/elouan.lmc) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elouan-le-marrec-45798a24b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:el.lemarrec@gmail.com) 
 
 
 # 💻 Tech Stack:
